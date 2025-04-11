@@ -2,6 +2,8 @@
 
 Um sistema bancário simples desenvolvido em Java, aplicando os fundamentos de **Programação Orientada a Objetos** (POO) com foco em **boas práticas de arquitetura**, **separação de responsabilidades** e **preparação para testes automatizados**.
 
+![image](https://github.com/user-attachments/assets/60ed88b6-7d11-4d44-988c-416bc172e05d)
+
 ---
 
 ## 📚 Resumo das Camadas
